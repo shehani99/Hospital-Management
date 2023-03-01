@@ -1,0 +1,9 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+/* Database 'hospital' */ 
+/* hospital.patients_details */
+
+[{"Patient_ID": "B123","FirstName": "Shehani","LastName": "Fernando","PhoneNumber": 716821219,"Address": "Homagama","Email": "fshehani11@gmail.com","Birthday": "2019-06-12 16:32:00","Gender": "F","MaritalStatus": "","Taking_any_medication_currently": 0,"YourMessage": "byhuh"}, {"Patient_ID": "b1256","FirstName": "Sonali","LastName": "Hewawaduge","PhoneNumber": 786554345,"Address": "Maharagama","Email": "hks98@gmail.com","Birthday": "2022-07-14 21:42:00","Gender": "F","MaritalStatus": 1,"Taking_any_medication_currently": "no","YourMessage": "great"}, {"Patient_ID": "C63212","FirstName": "Isuru","LastName": "Perera","PhoneNumber": 78543218,"Address": "Kandy","Email": "isuruperera@gmail.com","Birthday": "2011-07-12 12:07:00","Gender": "M","MaritalStatus": 1,"Taking_any_medication_currently": "","YourMessage": "nothing"}, {"Patient_ID": "H1234","FirstName": "vichakshi","LastName": "widanapathirana","PhoneNumber": 75436789,"Address": "Panadura","Email": "vichakshi@gmail.com","Birthday": "2022-10-08 12:18:00","Gender": "F","MaritalStatus": 1,"Taking_any_medication_currently": "no","YourMessage": "yes"}, {"Patient_ID": "V123","FirstName": "KB","LastName": "fernando","PhoneNumber": 786554345,"Address": "Maharagama","Email": "hks98@gmail.com","Birthday": "2022-11-03 15:24:00","Gender": "F","MaritalStatus": 1,"Taking_any_medication_currently": "no","YourMessage": "no"}]
